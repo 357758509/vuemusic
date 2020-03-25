@@ -29,12 +29,7 @@
 8. [Stylus（css预处理器）](https://github.com/stylus/stylus)
 9. [IconFont（阿里字体库）](http://www.iconfont.cn/)
 
-## 说明
-> 如果此开源系列对你有帮助，你可以点右上角 "star"支持一下，非常感谢！^_^ 🌹
 
-> 或者您可以 "follow（关注）" 一下作者，我正在不断开源更多实用的项目
-
-> 如有问题可以直接在 Issues 中提，或者加入我们下方Vue群更进一步地交流
 
 ## 最终目标
 Vue学习系列
@@ -107,10 +102,7 @@ npm run build:report
 ## 更新日志
 [发行说明](https://github.com/uncleLian/vue2-echo/releases)中记录了每个版本的详细更改。
 
-## 交流
 
-欢迎热爱学习、忠于分享的朋友一起来交流
-- Vue交流群：338241465
 
 ## License
 
