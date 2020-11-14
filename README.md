@@ -6,13 +6,6 @@
 ![image](https://img.shields.io/badge/mint--ui-2.2.13-blue.svg)
 ![image](https://img.shields.io/badge/vue--cli-3.x-green.svg)
 
-##### 其他分支：
-- [TypeScript版本](https://github.com/uncleLian/vue2-echo/tree/typescript)
-- [vue-cli-2.x](https://github.com/uncleLian/vue2-echo/tree/v2.0)
-
-##### react版本
-- [react-echo](https://github.com/uncleLian/react-echo)
-
 ## 前言
 这是一个Vue学习系列，难度：容易 -> 中等 -> 困难， 3个复杂度和不同类型的项目，一步步地带领大家熟悉和深入Vue。这些系列项目将会涉及Vue的大部分知识，如果都能熟悉和掌握，那么就可以随心所欲地使用Vue去写单页面应用了。
 
@@ -33,11 +26,11 @@
 
 ## 最终目标
 Vue学习系列
-- 第一阶段：[vue2-echo](https://github.com/uncleLian/vue2-echo) —— echo回声（ 移动端，难度：★★☆☆☆  入门项目， 推荐 ⭐️⭐️⭐️️⭐️⭐️）
-- 第二阶段：[vue2-news](https://github.com/uncleLian/vue2-news) —— 今日头条（ 移动端，难度：★★★☆☆ 过渡项目）
-- 第三阶段：[vue2-health](https://github.com/uncleLian/vue2-health) —— 头条号（ pc端，难度：★★★☆☆ 过渡项目）
-- 第四阶段：[vue2-native](https://github.com/uncleLian/vue2-native) —— 今日头条（ native端，难度：★★★★☆ 进阶项目，可跳过）
-- 第五阶段：[vue-blog](https://github.com/uncleLian/vue-blog) —— 后台管理集成解决方案（ pc端管理后台，难度：★★★★★ 进阶项目，推荐 ⭐️⭐️⭐️️⭐️⭐️️️️）
+- 第一阶段：[vue2-echo] —— echo回声（ 移动端，难度：★★☆☆☆  入门项目， 推荐 ⭐️⭐️⭐️️⭐️⭐️）
+- 第二阶段：[vue2-news] —— 今日头条（ 移动端，难度：★★★☆☆ 过渡项目）
+- 第三阶段：[vue2-health] —— 头条号（ pc端，难度：★★★☆☆ 过渡项目）
+- 第四阶段：[vue2-native] —— 今日头条（ native端，难度：★★★★☆ 进阶项目，可跳过）
+- 第五阶段：[vue-blog] —— 后台管理集成解决方案（ pc端管理后台，难度：★★★★★ 进阶项目，推荐 ⭐️⭐️⭐️️⭐️⭐️️️️）
 
 
 
@@ -95,13 +88,7 @@ npm run build
 npm run build:report
 ```
 
-## 更新日志
-[发行说明](https://github.com/uncleLian/vue2-echo/releases)中记录了每个版本的详细更改。
-
-
 
 ## License
-
-[MIT](https://github.com/uncleLian/vue2-echo/blob/master/LICENSE)
 
 Copyright (c) 2017-present，uncleLian
