@@ -39,11 +39,7 @@ Vue学习系列
 - 第四阶段：[vue2-native](https://github.com/uncleLian/vue2-native) —— 今日头条（ native端，难度：★★★★☆ 进阶项目，可跳过）
 - 第五阶段：[vue-blog](https://github.com/uncleLian/vue-blog) —— 后台管理集成解决方案（ pc端管理后台，难度：★★★★★ 进阶项目，推荐 ⭐️⭐️⭐️️⭐️⭐️️️️）
 
-## 效果演示 
 
-[在线链接](http://echo.liansixin.win)（请使用手机模式预览）
-
-<img src="https://unclelian.github.io/vue2-echo/screenshots/echo_QRcode.png" width="250" height="250"/>
 
 ## 功能
 
